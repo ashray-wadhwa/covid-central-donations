@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dec79b65c3b5266dc084f7f1759cc631",
+    "revision": "2e1d764e3a3b2b644f8d44ead67f556c",
     "url": "/covid-central-donations/index.html"
   },
   {
-    "revision": "17df67d1215e3b4090c7",
-    "url": "/covid-central-donations/static/css/main.eadd703d.chunk.css"
+    "revision": "782b54cbe5039055cb6c",
+    "url": "/covid-central-donations/static/css/main.60a03176.chunk.css"
   },
   {
     "revision": "3c67a2005a06e814fc3b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid-central-donations/static/js/2.8dff3abf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "17df67d1215e3b4090c7",
+    "revision": "782b54cbe5039055cb6c",
     "url": "/covid-central-donations/static/js/main.6709d2f0.chunk.js"
   },
   {
