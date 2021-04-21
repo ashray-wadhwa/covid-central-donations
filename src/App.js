@@ -82,7 +82,7 @@ class Component_one extends React.Component {
         <img id="coronaImage" src= "http://pngimg.com/uploads/stop_coronavirus/stop_coronavirus_PNG30.png" alt="Image not found"/>
         <h1 class = "donationTitle">Ways to Help During this Pandemic</h1>
         
-        <h2>Major Organizations that are Accepting Donations </h2>
+        <h2>Major Organizations that are Accepting Donationss </h2>
          <hr></hr>
         <div>
         <h5 class = "userWarning">The Following Information Has Been Extracted From a Washington Post Article written by Kanyakrit Vongkiatkajorn and Laura Daily</h5>
@@ -130,7 +130,7 @@ class Component_one extends React.Component {
           <hr class = "lineTag"></hr>
           <hr class = "lineTag"></hr>
         <div>
-          <h2>User Suggestec Organizations</h2>
+          <h2>User Suggested Organizations</h2>
           <h5 class = "userWarning">The Following Information Has Been Entered By Other Users. 
             Kindly Do Your Own Research Before Visiting These Links</h5>
         </div>
