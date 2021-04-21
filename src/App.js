@@ -130,7 +130,7 @@ class Component_one extends React.Component {
           <hr class = "lineTag"></hr>
           <hr class = "lineTag"></hr>
         <div>
-          <h2>User Suggested Organizations</h2>
+          <h2>User Suggestec Organizations</h2>
           <h5 class = "userWarning">The Following Information Has Been Entered By Other Users. 
             Kindly Do Your Own Research Before Visiting These Links</h5>
         </div>
