@@ -82,7 +82,7 @@ class Component_one extends React.Component {
         <img id="coronaImage" src= "http://pngimg.com/uploads/stop_coronavirus/stop_coronavirus_PNG30.png" alt="Image not found"/>
         <h1 class = "donationTitle">Ways to Help During this Pandemic</h1>
         
-        <h2>Major Organizations that are Accepting Donations </h2>
+        <h2>Major Organizations that are Accepting DonationsZZZ </h2>
          <hr></hr>
         <div>
         <h5 class = "userWarning">The Following Information Has Been Extracted From a Washington Post Article written by Kanyakrit Vongkiatkajorn and Laura Daily</h5>
