@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/covid-central-donations/static/css/main.ca5be799.chunk.css",
+    "main.css": "/covid-central-donations/static/css/main.03e518fd.chunk.css",
     "main.js": "/covid-central-donations/static/js/main.45021048.chunk.js",
     "main.js.map": "/covid-central-donations/static/js/main.45021048.chunk.js.map",
     "runtime-main.js": "/covid-central-donations/static/js/runtime-main.58a87c6b.js",
@@ -8,15 +8,15 @@
     "static/js/2.8dff3abf.chunk.js": "/covid-central-donations/static/js/2.8dff3abf.chunk.js",
     "static/js/2.8dff3abf.chunk.js.map": "/covid-central-donations/static/js/2.8dff3abf.chunk.js.map",
     "index.html": "/covid-central-donations/index.html",
-    "precache-manifest.d9173173f9f3c7a9ef30674579411c54.js": "/covid-central-donations/precache-manifest.d9173173f9f3c7a9ef30674579411c54.js",
+    "precache-manifest.a11a3fe0671326ed5b6cb9571292f9ad.js": "/covid-central-donations/precache-manifest.a11a3fe0671326ed5b6cb9571292f9ad.js",
     "service-worker.js": "/covid-central-donations/service-worker.js",
-    "static/css/main.ca5be799.chunk.css.map": "/covid-central-donations/static/css/main.ca5be799.chunk.css.map",
+    "static/css/main.03e518fd.chunk.css.map": "/covid-central-donations/static/css/main.03e518fd.chunk.css.map",
     "static/js/2.8dff3abf.chunk.js.LICENSE.txt": "/covid-central-donations/static/js/2.8dff3abf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.58a87c6b.js",
     "static/js/2.8dff3abf.chunk.js",
-    "static/css/main.ca5be799.chunk.css",
+    "static/css/main.03e518fd.chunk.css",
     "static/js/main.45021048.chunk.js"
   ]
 }
