@@ -1,3 +1,20 @@
+/* Animated background sourced from https://codepen.io/riedemann/pen/PWyYjV */
+
+
+@import url('https://fonts.googleapis.com/css?family=Ruda:900');
+
+/* html, body {
+  height: 100%;
+  margin: 0;
+} */
+
+/* .text {
+  font: 900 18px Ruda;
+  color: #C08;
+  background: white;
+  display: inline-block;
+  padding: 1rem;
+} */
 .App {
   text-align: center;
 }
@@ -43,7 +60,6 @@
   color: rgb(42, 65, 65);
   text-shadow: 0.25px 0.25px 0.25px black;
   scroll-behavior: smooth;
-  background: #d3d3d3;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
   /* overflow-y: scroll;
@@ -52,6 +68,26 @@
 
 body{
   opacity: 0.9;
+  background-image: url(//www.toptal.com/designers/subtlepatterns/patterns/symphony.png);
+  background-position: bottom;
+  animation: 4s linear 0s infinite bp;
+  background-color: #d3d3d3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* display: flex;
+  align-items: center;
+  justify-content: center; */
+}
+
+@keyframes bp {
+  from {
+    background-position:  198px 0;
+  }
+  
+  to {
+    background-position:  0 198px;
+  }
 }
 .OrganizationName{
   text-align: left;
@@ -161,7 +197,7 @@ a:visited{
   /* box-shadow: 0 25px 25px 0 rgba(0, 0, 0, 0.2), 0 25px 25px 0 rgba(0, 0, 0, 0.19); */
   margin: 0 auto;
   object-fit: contain;
-  opacity: 0.85;
+  opacity: 0.9;
   background-image: none;
 
 }
@@ -212,36 +248,3 @@ table{
   text-shadow: 0px 0px 0px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Ruda:900');
-
-body {
-  background-image: url(//www.toptal.com/designers/subtlepatterns/patterns/symphony.png);
-  background-position: bottom;
-  animation: 4s linear 0s infinite bp;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-@keyframes bp {
-  from {
-    background-position:  198px 0;
-  }
-  
-  to {
-    background-position:  0 198px;
-  }
-}
-
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-.text {
-  font: 900 18px Ruda;
-  color: #C08;
-  background: white;
-  display: inline-block;
-  padding: 1rem;
-}
